@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+.mainTable, td, th {
+    border: solid 1px black;
+}
+
+thead {
+    background-color: cornflowerblue;
+}
+
+
+
